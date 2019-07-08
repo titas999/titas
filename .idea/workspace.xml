@@ -1,0 +1,324 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="28304363-7c1d-4d80-bfc9-9c266c398a53" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/bootstrap.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/bootstrap.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style-gradient.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style-gradient.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/css/style.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/css/style.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/font-awesome.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome/font-awesome.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont3e6e.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome/fontawesome-webfont3e6e.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont3e6e.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome/fontawesome-webfont3e6e.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont3e6e.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome/fontawesome-webfont3e6e.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont3e6e.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome/fontawesome-webfont3e6e.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfont3e6e.woff2" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome/fontawesome-webfont3e6e.woff2" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/fontawesome/fontawesome-webfontd41d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/fontawesome/fontawesome-webfontd41d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ionicons/ionicons.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/ionicons/ionicons.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ionicons/ionicons28b5.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/ionicons/ionicons28b5.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ionicons/ionicons28b5.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/ionicons/ionicons28b5.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ionicons/ionicons28b5.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/ionicons/ionicons28b5.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/ionicons/ionicons28b5.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/ionicons/ionicons28b5.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/OpenSans-Bold-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/OpenSans-Bold-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/OpenSans-Bold-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/OpenSans-Bold-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/OpenSans-Bold-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/OpenSans-Bold-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/OpenSans-Bold-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/OpenSans-Bold-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/OpenSans-Bold-webfontd41d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/OpenSans-Bold-webfontd41d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/opensans-light-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/opensans-light-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/opensans-light-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/opensans-light-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/opensans-light-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/opensans-light-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/opensans-light-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/opensans-light-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/opensans-light-webfontd41d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/opensans-light-webfontd41d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/opensans-regular-webfont.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/opensans-regular-webfont.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/opensans-regular-webfont.svg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/opensans-regular-webfont.svg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/opensans-regular-webfont.ttf" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/opensans-regular-webfont.ttf" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/opensans-regular-webfont.woff" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/opensans-regular-webfont.woff" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/opensans-regular-webfontd41d.eot" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/opensans-regular-webfontd41d.eot" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fonts/opensans/stylesheet.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/fonts/opensans/stylesheet.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/bg-main.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/bg-main.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/client-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/client-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/client-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/client-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/client-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/client-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/favicon.html" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/favicon.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/item-pic.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/item-pic.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/logo-white.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/logo-white.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/phone-icon.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/phone-icon.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/project-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/project-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/project-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/project-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/project-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/project-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/subscrip-img.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/subscrip-img.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team-1.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team-1.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team-2.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team-2.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/team-3.jpg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/team-3.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/titas_twp.jpeg" beforeDir="false" afterPath="$PROJECT_DIR$/assets/img/titas_twp.jpeg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/item.html" beforeDir="false" afterPath="$PROJECT_DIR$/item.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/custom.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/custom.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lib/all.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lib/all.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lib/jquery-1.12.4.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lib/jquery-1.12.4.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lib/jquery.fullpage.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lib/jquery.fullpage.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lib/particlejs/particles-init.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lib/particlejs/particles-init.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lib/particlejs/particles.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lib/particlejs/particles.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lib/scrolloverflow.min.js" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lib/scrolloverflow.min.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lib/swiper.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lib/swiper.min.css" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lib/vegas/overlays/02.png" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lib/vegas/overlays/02.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/lib/vegas/vegas.min.css" beforeDir="false" afterPath="$PROJECT_DIR$/assets/js/lib/vegas/vegas.min.css" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="FileEditorManager">
+    <leaf>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="378">
+              <caret line="21" column="55" lean-forward="true" selection-end-line="589" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/style.css">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/functions.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="218">
+              <caret line="129" lean-forward="true" selection-start-line="129" selection-end-line="129" />
+              <folding>
+                <element signature="e#6#144#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="4464">
+              <caret line="248" column="7" lean-forward="true" selection-start-line="248" selection-start-column="7" selection-end-line="248" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-2072">
+              <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>enventer</find>
+      <find>img/</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>titas</replace>
+      <replace>&lt;?php echo get_template_directory_uri(); ?&gt;/assets/img/</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/style.css" />
+        <option value="$PROJECT_DIR$/functions.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/assets/js/custom.js" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectConfigurationFiles">
+    <option name="files">
+      <list>
+        <option value="$PROJECT_DIR$/.idea/titas.iml" />
+        <option value="$PROJECT_DIR$/.idea/misc.xml" />
+        <option value="$PROJECT_DIR$/.idea/vcs.xml" />
+        <option value="$PROJECT_DIR$/.idea/modules.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="-2" />
+    <option name="y" value="-8" />
+    <option name="width" value="1346" />
+    <option name="height" value="698" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="titas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="titas" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="titas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="titas" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="titas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="titas" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="titas" type="b2602c69:ProjectViewProjectNode" />
+              <item name="titas" type="462c0819:PsiDirectoryNode" />
+              <item name="assets" type="462c0819:PsiDirectoryNode" />
+              <item name="js" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="ignore_missing_gitignore" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\xampp\htdocs\titas\wp-content\themes\titas\assets" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="28304363-7c1d-4d80-bfc9-9c266c398a53" name="Default Changelist" comment="" />
+      <created>1562568652452</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1562568652452</updated>
+      <workItem from="1562568653667" duration="4366000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="4366000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
+    <layout>
+      <window_info id="Favorites" side_tool="true" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.16641453" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Docker" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" />
+      <window_info anchor="bottom" id="Version Control" />
+      <window_info anchor="bottom" id="Terminal" />
+      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Database" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="55" lean-forward="true" selection-end-line="589" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="2" lean-forward="true" selection-start-line="13" selection-start-column="2" selection-end-line="13" selection-end-column="2" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/functions.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="129" lean-forward="true" selection-start-line="129" selection-end-line="129" />
+          <folding>
+            <element signature="e#6#144#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/assets/js/custom.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4464">
+          <caret line="248" column="7" lean-forward="true" selection-start-line="248" selection-start-column="7" selection-end-line="248" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2072">
+          <caret line="76" lean-forward="true" selection-start-line="76" selection-end-line="76" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
