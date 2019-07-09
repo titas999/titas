@@ -148,3 +148,5 @@ add_action( 'wp_enqueue_scripts', 'titas_scripts' );
  */
 //require get_template_directory() . '/inc/plugin-activation.php';
 
+require_once(get_theme_file_path('/inc/metaboxes/services.php'));
+require_once(get_theme_file_path('/inc/metaboxes/portfolio.php'));

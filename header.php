@@ -12,12 +12,6 @@
 <p class="browsehappy">You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</p>
 <![endif]-->
 
-<!--<div class="pageloader" id="pageloader">-->
-<!--    <div>-->
-<!--        <div class="icon ion-spin"></div>-->
-<!--    </div>-->
-<!--</div>-->
-
 <header class="page-header navbar page-header-alpha scrolled-white menu-right topmenu-right">
     <button class="navbar-toggler site-menu-icon" id="navMenuIcon">
             <span class="menu-icon menu-icon-random">
@@ -30,8 +24,9 @@
     </button>
     <a class="navbar-brand" href="#home">
             <span class="logo">
-            <h1 class="light-logo">TITAS</h1>
-                <!--                <img class="light-logo" src="<?php echo get_template_directory_uri(); ?>/assets/img/logo-white.png" alt="Logo">-->
+                <?php if (function_exists('the_custom_logo')){
+                    the_custom_logo();
+                } ?>
             </span>
     </a>
     <div class="all-menu-wrapper" id="navbarMenu">
@@ -50,17 +45,17 @@
         <nav class="navbar-sidebar ">
             <ul class="social">
                 <li>
-                    <a href="#">
+                    <a href="https://www.facebook.com/titas999">
                         <i class="icon fa fa-facebook"></i>
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="https://twitter.com/titas999">
                         <i class="icon fa fa-twitter"></i>
                     </a>
                 </li>
                 <li>
-                    <a href="#">
+                    <a href="https://www.instagram.com/anisuzzaman_titas/">
                         <i class="icon fa fa-instagram"></i>
                     </a>
                 </li>

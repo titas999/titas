@@ -12,3 +12,37 @@ Tags: one-column, two-columns, right-sidebar, flexible-header, accessibility-rea
 This theme, like WordPress, is licensed under the GPL.
 Use it to make something cool, have fun, and share what you've learned with others.
 */
+
+.carousel-swiper-beta .slider-container .illustr img{
+    height: auto;
+}
+
+.nf-form-content .list-select-wrap .nf-field-element > div, .nf-form-content input:not([type="button"]), .nf-form-content textarea {
+    background: #8c6eb4 !important;
+    border: none !important;
+    border-radius: 5px !important;
+    box-shadow: none !important;
+    color: #fff !important;
+    transition: all .5s !important;
+}
+.nf-error.field-wrap .nf-field-element::after {
+    background: none !important;
+}
+.nf-error-msg, .ninja-forms-req-symbol {
+    display: none;
+}
+
+.email-add a{
+    color: #fff;
+}
+nf-section {
+    display: none;
+}
+.nf-form-content button, .nf-form-content input[type="button"], .nf-form-content input[type="submit"] {
+    background: transparent !important;
+    border: 1px solid darkgrey !important;
+    color: #f7f7f7;
+    transition: all .5s;
+    width: 100% !important;
+    border-radius: 5px !important;
+}
