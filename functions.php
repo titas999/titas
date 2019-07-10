@@ -120,7 +120,7 @@ add_action( 'widgets_init', 'titas_widgets_init' );
  */
 function titas_scripts() {
     wp_enqueue_style( 'ionicons-min', get_template_directory_uri() . '/assets/fonts/ionicons/ionicons.min.css');
-    wp_enqueue_style( 'fontawesome-min', get_template_directory_uri() . '/assets/fonts/fontawesome/font-awesome.min.css');
+    wp_enqueue_style( 'fontawesome-min', '//stackpath.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css');
     wp_enqueue_style( 'bootstrap-min', get_template_directory_uri() . '/assets/css/bootstrap.min.css');
     wp_enqueue_style( 'swiper', get_template_directory_uri() . '/assets/js/lib/swiper.min.css');
     wp_enqueue_style( 'fullpage', get_template_directory_uri() . '/assets/js/lib/jquery.fullpage.min.css');

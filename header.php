@@ -39,14 +39,7 @@
                 
             ) );
             ?>
-                <!-- <li class="nav-item active">
-                    <a class="nav-link" href="index.html#home">Home
-                        <span class="sr-only">(current)</span>
-                    </a>
-                </li>
-                <li class="nav-item">
-                    <a class="nav-link" href="item.html">Item</a>
-                </li> -->
+
             <ul>
         </nav>
         <nav class="navbar-sidebar ">

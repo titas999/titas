@@ -3,7 +3,7 @@
 
     <div class="page-cover">
         <div class="cover-bg bg-img"
-             data-image-src="<?php echo get_template_directory_uri(); ?>/assets/img/titas_twp.jpeg"></div>
+             data-image-src="<?php echo get_template_directory_uri(); ?>/assets/img/titas.webp"></div>
         <div id="particles-js" class="cover-bg pos-abs full-size bg-color" data-bgcolor="rgba(2, 3, 10, 0.4)"></div>
     </div>
 
@@ -67,7 +67,7 @@
         </div>
 
 
-        <div class="section services section-list-feature fp-auto-height-responsive " data-section="services">
+        <div class="section services section-list-feature fp-auto-height-responsive " data-section="features">
             <div class="section-wrapper twoside center-vh dir-col anim">
                 <div class="anim-2 text-center mb-3">
                     <h2 class="display-4 display-title">Features</h2>
@@ -127,7 +127,7 @@
             </div>
         </div>
 
-        <div class="section section-team fp-auto-height-responsive " data-section="team">
+        <div class="section section-team fp-auto-height-responsive " data-section="services">
             <div class="section-wrapper center-vh dir-col anim">
                 <div class="section-title text-center">
                     <h2 class="display-4 display-title anim-2 mb-32">Services</h2>
@@ -147,15 +147,17 @@
                                 $titas_service_link = $titas_page_meta['service_link'];
                                 ?>
 
-                                <a href="<?php echo esc_url($titas_service_link); ?>" target="_blank">
+
                                     <div class="col-12 col-sm-6 col-md-4 center-vh">
                                         <div class="section-content anim translateUp">
                                             <div class="images text-center">
                                                 <div class="img-avatar-alpha">
                                                     <div class="img-1 shadow">
+                                                        <a href="<?php echo esc_url($titas_service_link); ?>" target="_blank">
                                                         <?php if (has_post_thumbnail()) {
                                                             the_post_thumbnail('img');
                                                         } ?>
+                                                        </a>
 
                                                         <div class="legend pos-abs">
                                                             <div class="text-left">
@@ -167,7 +169,6 @@
                                             </div>
                                         </div>
                                     </div>
-                                </a>
                             <?php
 
                             endwhile;
@@ -215,7 +216,7 @@
                                                     the_post_thumbnail('img');
                                                 } ?>
                                             </div>
-                                            <a class="legend" href="<?php echo esc_url($titas_portfolio_link); ?>">
+                                            <a class="legend" href="<?php echo esc_url($titas_portfolio_link); ?>" target="_blank">
                                                 <h2 class="display-4"><?php the_title(); ?></h2>
                                                 <p><?php echo esc_html($titas_portfolio_desc); ?></p>
                                             </a>
