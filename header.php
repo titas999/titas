@@ -30,17 +30,24 @@
             </span>
     </a>
     <div class="all-menu-wrapper" id="navbarMenu">
+    
         <nav class="navbar-mainmenu">
             <ul class="navbar-nav mr-auto mr-auto-my">
-                <li class="nav-item active">
+            <?php 
+            wp_nav_menu( array(
+                'theme_location' => 'topmenu',
+                
+            ) );
+            ?>
+                <!-- <li class="nav-item active">
                     <a class="nav-link" href="index.html#home">Home
                         <span class="sr-only">(current)</span>
                     </a>
                 </li>
                 <li class="nav-item">
                     <a class="nav-link" href="item.html">Item</a>
-                </li>
-            </ul>
+                </li> -->
+            <ul>
         </nav>
         <nav class="navbar-sidebar ">
             <ul class="social">

@@ -16,10 +16,10 @@
                     <div class="row">
                         <div class="col-12 col-md-12 text-center">
                             <div class="title-desc">
-                                <h2 class="display-4 display-title home-title anim-1">Anisuzzaman</h2>
-                                <h4 class="anim-2 opacity-75">We are creative experts, build your company with us.
+                                <h2 class="display-4 display-title home-title anim-1"><?php _e('Anisuzzaman','titas') ?></h2>
+                                <h4 class="anim-2 opacity-75"><?php _e('Professional WordPress Expert, build your website with .
                                     Today’s
-                                    progress was yesterday’s plan.</h4>
+                                    progress was yesterday’s plan.','titas') ?></h4>
                             </div>
                         </div>
                     </div>
@@ -27,7 +27,7 @@
                 <footer class="section-footer scrolldown">
                     <a class="down">
                         <span class="icon"></span>
-                        <span class="txt">About Us</span>
+                        <span class="txt">About Me</span>
                     </a>
                 </footer>
             </div>
@@ -37,7 +37,7 @@
         <div class="section section-description fp-auto-height-responsive about-section" data-section="about">
             <div class="section-wrapper center-vh dir-col anim">
                 <div class="section-title text-center">
-                    <h2 class="display-4 display-title anim-2 mb-32">About Us</h2>
+                    <h2 class="display-4 display-title anim-2 mb-32">About Me</h2>
                 </div>
                 <div class="section-content reduced">
                     <div class="row">

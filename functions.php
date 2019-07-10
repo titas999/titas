@@ -146,7 +146,7 @@ add_action( 'wp_enqueue_scripts', 'titas_scripts' );
 /**
  * Plugins Activation.
  */
-//require get_template_directory() . '/inc/plugin-activation.php';
+include_once get_template_directory() . '/inc/plugins_activation.php';
 
 require_once(get_theme_file_path('/inc/metaboxes/services.php'));
 require_once(get_theme_file_path('/inc/metaboxes/portfolio.php'));

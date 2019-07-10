@@ -46,3 +46,11 @@ nf-section {
     width: 100% !important;
     border-radius: 5px !important;
 }
+.nf-field-element textarea {
+	height: 115px !important;
+}
+.page_item a{
+    display: block;
+    padding: .5rem 1rem;
+    text-decoration: none;
+}
